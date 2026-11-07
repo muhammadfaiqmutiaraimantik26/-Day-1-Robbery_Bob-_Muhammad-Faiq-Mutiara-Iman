@@ -45,7 +45,8 @@ git commit-m : menyimpan file repository dari staging area
 
 
 
-
+untuk kesannya pada day 1
+oke, lumayan
 
 
 
